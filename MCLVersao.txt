@@ -1,10 +1,10 @@
 {
-  "swVersion": "1.12",
+  "swVersion": "1.14",
   "swMandatory": true,
   "swRelease": "2020-06-19T12:30:00Z",
   "swURL": "https://raw.githubusercontent.com/MCLInovTec/ESP_Downloads/master/MCLAutomacao.ino.bin",
             
-  "fsVersion": "1.11",
+  "fsVersion": "1.14",
   "fsMandatory": true,
   "fsRelease": "2020-06-19T12:30:00Z",
   "fsURL": "https://raw.githubusercontent.com/MCLInovTec/ESP_Downloads/master/MCLAutomacao.spiffs.bin"
